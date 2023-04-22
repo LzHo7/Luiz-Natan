@@ -2,7 +2,7 @@
 ### Olá! Seja bem-vindo(a)! 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LzHo7&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)    
- <div style="display: block">
+ <div style="display: block; margin: auto">
         <img align="center" alt="lz" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
          <img align="center" alt="lz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" alt="lz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
